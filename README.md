@@ -1,4 +1,4 @@
-# 3C — 3D Circle
+# 3C - 3D Circle
 
 Author: Dzmitry Tsiapkin
 
