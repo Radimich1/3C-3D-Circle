@@ -1,0 +1,18 @@
+# Local archives and backups
+/_local_archive/
+/archives/
+/backups/
+*.zip
+*.7z
+*.bak
+*.tmp
+*.temp
+*.swp
+*~
+
+# Local recordings and OS files
+*.mp4
+*.mov
+.DS_Store
+Thumbs.db
+desktop.ini
