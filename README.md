@@ -103,6 +103,15 @@ Official Autodesk references:
 - [CIRCLE DXF](https://help.autodesk.com/cloudhelp/2020/ENU/AutoCAD-DXF/files/GUID-8663262B-222C-414D-B133-4A8506A27C18.htm)
 - [entmake](https://help.autodesk.com/cloudhelp/2026/ENU/AutoCAD-AutoLISP-Reference/files/GUID-D47983BA-1E5D-417D-85B8-6F3DE5F506BA.htm)
 
+## Technical Publication
+
+The mathematical methodology and implementation of 3C and 3A are documented in:
+
+**Dzmitry Tsiapkin (2026)**  
+*Native Spatial Circle and Ordered Arc Construction from Three Points in AutoLISP without UCS Modification.*
+
+[Read the technical paper on Zenodo](https://doi.org/10.5281/zenodo.23701052)
+
 ## Copyright and availability
 
 Copyright (c) 2026 Dzmitry Tsiapkin. All rights reserved.
