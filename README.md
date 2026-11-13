@@ -110,7 +110,7 @@ The mathematical methodology and implementation of 3C and 3A are documented in:
 **Dzmitry Tsiapkin (2026)**  
 *Native Spatial Circle and Ordered Arc Construction from Three Points in AutoLISP without UCS Modification.*
 
-[Read the technical paper on Zenodo](https://doi.org/10.5281/zenodo.23701052)
+[Read the technical paper on Zenodo](https://zenodo.org/records/24204122)
 
 ## Copyright and availability
 
